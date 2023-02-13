@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+nav {
+  padding: 1rem 8rem;
+}
+nav .menusection {
+  display: flex;
+  align-items: center;
+}
+nav .menusection a {
+  text-decoration: none;
+  color: #696969;
+  margin: 0 1.3rem;
+  font-size: 18px;
+  font-family: "DM Sans", sans-serif;
+}
